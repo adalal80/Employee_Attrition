@@ -4,11 +4,44 @@ This exercise will be using the dataset located [here](https://www.kaggle.com/da
 This will be a classification exercise in which i will use algorithms such as random forest, extra trees,and ensemble models (TBD).
 
 ### Objective
-The focus on this project will be to re-familiarize myself in classification models, going through the steps of EDA, creating various models/seeing which features i want to include,
+The focus on this project will be to re-familiarize myself in classification models, going through the steps of EDA, creating various models/seeing which features that should be included
 
 ### Data
 The data consists of the following fields:
-
-
+ EmployeeID,
+ Age,
+ Attrition,
+ BusinessTravel,
+ DailyRate,
+ Department,
+ DistanceFromHome,
+ Education,
+ EducationField,
+ EmployeeCount,
+ EnvironmentSatisfaction,
+ Gender,
+ HourlyRate,
+ JobInvolvement,
+ JobLevel,
+ JobRole,
+ JobSatisfaction,
+ MaritalStatus,
+ MonthlyIncome,
+ MonthlyRate,
+ NumCompaniesWorked,
+ Over18,
+ OverTime,
+ PercentSalaryHike,
+ PerformanceRating,
+ RelationshipSatisfaction,
+ StandardHours,
+ Shift,
+ TotalWorkingYears,
+ TrainingTimesLastYear,
+ WorkLifeBalance,
+ YearsAtCompany,
+ YearsInCurrentRole,
+ YearsSinceLastPromotion,
+ YearsWithCurrManager
 
 
